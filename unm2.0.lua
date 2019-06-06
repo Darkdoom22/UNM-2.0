@@ -1,6 +1,6 @@
 _addon.name = 'UNMv2'
 _addon.author = 'Darkdoom'
-_addon.version = '0.1'
+_addon.version = '2.0'
 _addon.command = 'unm'
 _addon.commands = {'start', 'stop', 'help'}
 _addon.language = 'english'
